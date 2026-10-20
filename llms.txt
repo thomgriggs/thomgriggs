@@ -1,0 +1,34 @@
+# Thom Griggs
+
+> Web production specialist and front-end developer in St. Petersburg, Florida. I help marketing, creative, and digital teams build, update, troubleshoot, and QA websites, landing pages, CMS content, HTML/CSS layouts, and email campaigns.
+
+## About
+
+- Name: Thom Griggs (Thomas Griggs)
+- Role: Web Production Specialist / Digital Producer / Front-End Developer
+- Location: St. Petersburg, FL, USA
+- Email: thomgriggs@gmail.com
+- LinkedIn: https://www.linkedin.com/in/thomgriggs
+- GitHub: https://github.com/thomgriggs
+
+## Services
+
+- CMS updates and content production (WordPress, Squarespace, custom CMS)
+- HTML/CSS/JavaScript front-end production and bug fixes
+- Accessibility (WCAG) remediation
+- HTML email development and QA (Litmus)
+- Website and landing page QA
+- Responsive design implementation
+
+## Experience
+
+- 200+ hotel and lifestyle websites built for hospitality clients
+- Nonprofit, SaaS, HOA, and small-business sites
+- Recent work: Westbrooke Place HOA, Tinatin's Piano Studio, Executive Presence site and assessment emails, Genox forms, Tampa Bay Community Design Center, Optimum RV, Qlik Support Portal
+
+## Pages
+
+- [Home](https://thomgriggs.com/): overview and contact
+- [Work](https://thomgriggs.com/work/): selected web and email projects with details
+- [Archive](https://thomgriggs.com/archive/): full project list with screenshots and format filters
+- [Adva-Lite 2008 Printed Catalog](https://thomgriggs.com/archive/advalite-catalog/): print design detail page
