@@ -5,7 +5,7 @@
 ## About
 
 - Name: Thom Griggs (Thomas Griggs)
-- Role: Web Production Specialist / Digital Producer / Front-End Developer
+- Role: Web Production Specialist
 - Location: St. Petersburg, FL, USA
 - Email: thomgriggs@gmail.com
 - LinkedIn: https://www.linkedin.com/in/thomgriggs
@@ -32,3 +32,4 @@
 - [Work](https://thomgriggs.com/work/): selected web and email projects with details
 - [Archive](https://thomgriggs.com/archive/): full project list with screenshots and format filters
 - [Adva-Lite 2008 Printed Catalog](https://thomgriggs.com/archive/advalite-catalog/): print design detail page
+- [Resume](https://thomgriggs.com/resume/): one-page resume, printable, with PDF download at https://thomgriggs.com/resume/thom-griggs-resume.pdf
